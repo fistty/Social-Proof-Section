@@ -205,7 +205,6 @@ body {
 
 @media screen and (min-width: 1230px) {
   body {
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -225,6 +224,7 @@ body {
 
   .header-container {
     grid-template-columns: 1fr 1fr;
+    margin-top: 8rem;
   }
 
   .first-grid {
@@ -233,21 +233,21 @@ body {
   }
 
   .second-grid {
-    margin-top: 1rem;
+    margin-top: 1.7rem;
   }
 
   .header-thousand {
     text-align: left;
     width: 23rem;
     margin: 0;
-    font-size: 3.5rem;
+    font-size: 3rem;
   }
 
   .header-note {
     padding-inline: 0;
     width: 26rem;
     margin: 0;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     text-align: left;
   }
 
@@ -305,7 +305,6 @@ body {
   }
 
   .attribution {
-    position: absolute;
-    bottom: 0%;
+    margin-top: 1rem;
   }
 }
