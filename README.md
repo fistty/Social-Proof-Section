@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section solution
 
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-PPLELhktef)
-- Live Site URL: [Netlify Live Site](https://fistty-testimonial-grid-layout.netlify.app/)
+- Solution URL: [Frontend Solution](https://www.frontendmentor.io/solutions/social-proof-section-with-hover-states-VAgCHCeQ53)
+- Live Site URL: [Netlify Live Site](https://fistty-social-proof-section.netlify.app/)
 
 ## My process
 
